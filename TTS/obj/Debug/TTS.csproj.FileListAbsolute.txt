@@ -1,0 +1,7 @@
+C:\Users\kzmij\Desktop\TTS\TTS\bin\Debug\TTS.exe.config
+C:\Users\kzmij\Desktop\TTS\TTS\bin\Debug\TTS.exe
+C:\Users\kzmij\Desktop\TTS\TTS\bin\Debug\TTS.pdb
+C:\Users\kzmij\Desktop\TTS\TTS\obj\Debug\TTS.csprojAssemblyReference.cache
+C:\Users\kzmij\Desktop\TTS\TTS\obj\Debug\TTS.csproj.CoreCompileInputs.cache
+C:\Users\kzmij\Desktop\TTS\TTS\obj\Debug\TTS.exe
+C:\Users\kzmij\Desktop\TTS\TTS\obj\Debug\TTS.pdb
